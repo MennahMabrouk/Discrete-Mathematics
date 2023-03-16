@@ -10,4 +10,4 @@
 
 * Purpose: The files are intended to be used as study materials for students taking a course in discrete mathematics or using the textbook "Discrete Mathematics and Its Applications Eighth Edition" by Kenneth H. Rosen. The questions and answers provide practice and reinforcement for the concepts covered in the book.
 
-#[Link to Notion Page For These Sheets]((https://mennah.notion.site/Discrete-Mathematics-0040e8a0823540058893b5e84a1285fc) “Notion Page For These Sheets”) 
+#[Link to Notion Page For These Sheets]([https://mennah.notion.site/Discrete-Mathematics-0040e8a0823540058893b5e84a1285fc] “Notion Page For These Sheets”) 
