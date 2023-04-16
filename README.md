@@ -12,5 +12,5 @@
 
 # Material
 
-### [Link to Notion Page For These Sheets](https://mennah.notion.site/Discrete-Mathematics-0040e8a0823540058893b5e84a1285fc) 
+### [Link to Notion Page For The Discrete Mathematics](https://mennah.notion.site/Discrete-Mathematics-84dbf170dfdc4ac3a34429f21170ac72) 
 
