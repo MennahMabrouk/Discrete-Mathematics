@@ -13,7 +13,7 @@
 ************
 # Material
 
-### [Link to Notion Page For The Discrete Mathematics](https://mennah.notion.site/Discrete-Mathematics-84dbf170dfdc4ac3a34429f21170ac72) 
+### [Link to Notion Page For The Discrete Mathematics](https://mennahtullahmabrouk.notion.site/Discrete-Mathematics-84dbf170dfdc4ac3a34429f21170ac72?pvs=4) 
 
 ************
 # Projects 
